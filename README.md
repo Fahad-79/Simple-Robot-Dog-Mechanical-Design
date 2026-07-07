@@ -49,3 +49,17 @@ Crawl Gait:
 
 ## Conclusion
 This project demonstrates the mechanical design principles of a simple quadruped robot dog suitable for educational purposes.
+---
+
+## Project Files
+
+- Mechanical Design Report (PDF)
+- Robot Design Images
+- Mechanical Drawing
+- README Documentation
+
+## Author
+
+Fahad Al-Mutairi  
+Prince Sattam bin Abdulaziz University  
+Biomedical Engineering / Medical Devices Technology
